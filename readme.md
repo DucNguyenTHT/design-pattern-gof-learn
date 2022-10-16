@@ -1,9 +1,6 @@
 # This Repository For 23 - Design Pattern ( G.o.F)
 ## Each Design pattern have the following content
-- Problem.
-- Solution.
 - Structure ( Code )
-- Pros and Cons
 
 ## Design Pattern List
 Design Pattern Type | Design Pattern Name | Branch Name|
